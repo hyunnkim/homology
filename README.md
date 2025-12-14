@@ -1,1 +1,1 @@
-using ideas from algebraic topology—specifically persistent homology—to understand structure and regime changes in financial markets. it turns those topological signals into trading decisions with a clean, walk-forward backtest to see how the strategy performs over time.
+this script uses ideas from algebraic topology—specifically persistent homology—to understand structure and regime changes in financial markets. it turns those topological signals into trading decisions with a clean, walk-forward backtest to see how the strategy performs over time.
